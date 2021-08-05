@@ -1,18 +1,20 @@
 ### Hi there 👋
 
-I am a [Scala](https://www.scala-lang.org/) enthusiast.
+I am a [Scala](https://www.scala-lang.org/) enthusiast and learning [Scala](https://www.youtube.com/devinsideyou)
 
 - 🔭 I’m currently working as a DevOps Engineer
 - 🌱 I’m currently learning Kubernetes/Azure/AWS/GCP
 - Cheers and happy coding! 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=agilesteel&count_private=true&show_icons=true&theme=blueberry" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=royki&count_private=true&show_icons=true&theme=blueberry" />
 </a>
 <br>
+<!-- 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agilesteel&layout=compact&theme=blueberry" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=royki&layout=compact&theme=blueberry" />
 </a>
+-->
 
 <!--
 **royki/royki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
