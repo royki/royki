@@ -3,8 +3,8 @@
 I am a [Scala](https://www.scala-lang.org/) enthusiast and learning [Scala](https://www.youtube.com/devinsideyou)
 
 - 🔭 I’m currently working as a DevOps Engineer in [EWF](https://github.com/energywebfoundation); 
-- ⚡ Develop internal tools, setup CI/CD process, design/architect and build opensource infrastructure (Ansible, Kubernetes, Helm Chart)
-- 🌱 Learning Cloud Services -> AWS, GCP, Azure..
+- ⚡ Develop internal tools, setup CI/CD process, design/architect and build opensource infrastructure (Terraform, Ansible, Kubernetes, Docker, Helm Chart)
+- 🌱 Learning Cloud Services -> AWS, GCP, Azure.
 - Cheers and happy coding! 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
