@@ -1,21 +1,23 @@
 ### Hi there 👋
 
-I am a [Scala](https://www.scala-lang.org/) enthusiast and learning [Scala](https://www.youtube.com/devinsideyou)
+[Scala](https://www.scala-lang.org/) enthusiast focused on Blockchain, Web3 technologies, and security-driven systems.
 
-- 🔭 I’m currently working as a DevOps Engineer in [EWF](https://github.com/energywebfoundation); 
-- ⚡ Develop internal tools, setup CI/CD process, design/architect and build opensource infrastructure (Terraform, Ansible, Kubernetes, Docker, Helm Chart)
-- 🌱 Learning Cloud Services -> AWS, GCP, Azure.
+- 🔭 I'm currently working as a DevOps/Infra Engineer in [Energy Web](https://github.com/energywebfoundation)
+- ⚡ Design, architect, and develop internal tools and applications; build and maintain infrastructure (Python, JS, NodeJs, Terraform, Ansible, Kubernetes, Docker, and Helm), implement CI/CD pipelines, monitoring, and observability.
+- 🌱 Cloud Services -> AWS, GCP, Azure.
 - Cheers and happy coding! 👋
 
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=royki&count_private=true&show_icons=true&theme=blueberry" />
 </a>
 <br>
-<!-- 
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=royki&layout=compact&theme=blueberry" />
 </a>
--->
+
+--> 
 
 <!--
 **royki/royki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
