@@ -5,7 +5,8 @@
 - 🔭 I'm currently working as a DevOps/Infra Engineer in [Energy Web](https://github.com/energywebfoundation)
 - ⚡ Design, architect, and develop internal tools and applications; build and maintain infrastructure (Python, JS, NodeJs, Terraform, Ansible, Kubernetes, Docker, and Helm), implement CI/CD pipelines, monitoring, and observability.
 - 🌱 Cloud Services -> AWS, GCP, Azure.
-- Cheers and happy coding! 👋
+
+Cheers and happy coding! <👨‍💻>
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
